@@ -1,0 +1,1809 @@
+.potent1 {
+    margin-top: 15em;
+    background-image: url(folder1/Homepage_Banner_Website_Hero_200x200.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    left: 0;
+    right: 0;
+    background-size: cover;
+    top: -2em;
+    height: 30em;
+    width: 100%;
+    position: relative;
+}
+
+.potent {
+    width: 25%;
+    margin-left: 2em;
+    color: whitesmoke;
+    padding-top: 2em;
+    position: relative;
+}
+
+.tinc {
+    width: 25%;
+    margin-left: 2em;
+    color: whitesmoke;
+    margin-top: 1em;
+}
+
+.shop {
+    margin-bottom: 5em;
+    margin-top: 2em;
+}
+
+.shop a {
+    text-decoration: none;
+    border: 2px solid whitesmoke;
+    margin-left: 2em;
+    padding-left: 3em;
+    padding-right: 3em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-size: larger;
+    border-radius: 0 50px 50px 0;
+    color: whitesmoke;
+}
+
+@media only screen and (min-width: 450px) {
+    .top {
+        text-align: center;
+        background-color: darkblue;
+        color: whitesmoke;
+        height: 2em;
+        position: fixed;
+        width: 100%;
+        top: 0;
+        left: 0;
+        padding-top: .5em;
+        z-index: 10;
+    }
+    .top-background {
+        background-color: #1e4844;
+        position: fixed;
+        width: 100%;
+        top: 2em;
+        margin-bottom: 2em;
+        z-index: 1000;
+    }
+    .topnav {
+        top: 5em;
+        position: relative;
+    }
+    .top-head {
+        position: relative;
+        width: fit-content;
+        margin-left: auto;
+        margin-right: auto;
+        top: -1em;
+        color: whitesmoke;
+    }
+    .topnav>ul {
+        display: inline-flex;
+        position: absolute;
+        top: 2em;
+    }
+    li ul li {
+        display: none;
+        position: relative;
+        background-color: #1e4844;
+        min-width: 200px;
+    }
+    li {
+        list-style-type: none;
+    }
+    li:hover ul li {
+        display: block;
+        background-color: yellow;
+        border-bottom: none;
+        border-top: none;
+        text-align: left;
+    }
+    li:hover ul a {
+        text-decoration: none;
+    }
+    li:hover a {
+        text-decoration: none;
+    }
+    li:hover ul {
+        margin-left: 2em;
+    }
+    ul li {
+        text-align: center;
+        display: block;
+        margin-left: -1em;
+        margin-top: 0;
+        margin-right: 5em;
+        padding-top: em;
+        padding-bottom: 5px;
+        background-color: transparent;
+        height: 1em;
+    }
+    li a {
+        display: block;
+        text-decoration: none;
+    }
+    li ul {
+        margin-left: -3.2em;
+    }
+    li>ul:hover a {
+        background-color: violet;
+        margin-bottom: 10px;
+    }
+    .icons {
+        display: inline-flex;
+        position: relative;
+        float: right;
+        right: 3em;
+        top: -7em;
+        font-size: small;
+    }
+    .prismatic-press {
+        width: 100%;
+    }
+    .prismatic-press img {
+        width: 100%;
+    }
+    .pix {
+        width: 100%;
+    }
+    .pix img {
+        width: 100%;
+    }
+    .potent1 {
+        margin-top: 12em;
+        background-image: url(folder1/Homepage_Banner_Website_Hero_200x200.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        left: 0;
+        right: 0;
+        background-size: cover;
+        top: -2em;
+        height: 40em;
+        width: 100%;
+        position: relative;
+    }
+    .potent {
+        width: 50%;
+        margin-left: 2em;
+        color: whitesmoke;
+        padding-top: 2em;
+        position: relative;
+    }
+    .tinc {
+        width: 60%;
+        margin-left: 2em;
+        color: whitesmoke;
+        margin-top: 1em;
+    }
+    .shop {
+        margin-bottom: 5em;
+        margin-top: 2em;
+    }
+    .shop a {
+        text-decoration: none;
+        border: 2px solid whitesmoke;
+        margin-left: 2em;
+        padding-left: 2em;
+        padding-right: 2em;
+        padding-top: .5em;
+        padding-bottom: .5em;
+        font-size: larger;
+        border-radius: 0 50px 50px 0;
+        color: whitesmoke;
+    }
+    .buygooday {
+        width: 100%;
+        background-image: url(folder1/11_HOMEPAGE_DAYTIME_01080_HERO_R_Cropped_Web_200x200.jpg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        position: relative;
+        margin-top: 0;
+        height: 50em;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .meetgooday {
+        width: 12em;
+        margin-left: 5em;
+        margin-top: 20em;
+        position: absolute;
+        color: whitesmoke;
+        font-size: large;
+    }
+    .shopday a {
+        position: absolute;
+        top: 43em;
+        width: 12em;
+        height: 2em;
+        left: 5.5em;
+        border-radius: 0 50px 50px 0;
+        background-color: transparent;
+        border-color: whitesmoke;
+        border: 2px solid whitesmoke;
+        color: whitesmoke;
+        cursor: pointer;
+        text-decoration: none;
+        text-align: center;
+        padding-top: .2em;
+    }
+    .buynight {
+        background-image: url(folder1/06_HOMEPAGE_GOODNIGHT_00627_HERO_OG_no-bottle_Cropped_Web_200x200.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: 50em;
+        position: relative;
+    }
+    .meetgoodnight {
+        width: 12em;
+        position: absolute;
+        top: 20em;
+        color: whitesmoke;
+        left: 5em;
+        font-size: large;
+    }
+    .buynight a {
+        position: absolute;
+        top: 43em;
+        width: 12em;
+        height: 2em;
+        left: 5.5em;
+        border-radius: 0 50px 50px 0;
+        background-color: transparent;
+        border-color: whitesmoke;
+        border: 2px solid whitesmoke;
+        color: whitesmoke;
+        cursor: pointer;
+        text-decoration: none;
+        text-align: center;
+        padding-top: .2em;
+    }
+    .carousel-point {
+        position: relative;
+        align-content: center;
+    }
+    .glyphicon-chevron-left {
+        position: absolute;
+    }
+    .container {
+        width: 100%;
+        background-color: #1e4844;
+        color: whitesmoke;
+    }
+    .container h3 {
+        text-align: center;
+        margin-top: 1em;
+    }
+    .carousel-inner {
+        width: 100%;
+        text-align: center;
+        position: relative;
+        left: auto;
+        right: auto;
+        padding-bottom: 2em;
+    }
+    .container h2 {
+        text-align: center;
+    }
+    .item q {
+        text-align: center;
+    }
+    .left,
+    .right {
+        position: absolute;
+        margin-top: -10em;
+        margin-bottom: .5em;
+    }
+    .item {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+        text-align: center;
+    }
+    .prism-hand {
+        background-color: #c7584a;
+        top: -1.5em;
+        position: relative;
+        width: 100%;
+        display: flex;
+        flex-flow: row-reverse;
+    }
+    .prism-hand-heading,
+    .expl {
+        margin-left: 4em;
+        width: 100%;
+        color: whitesmoke;
+        position: relative;
+        top: 9em;
+        font-size: small;
+    }
+    .expl {
+        margin-bottom: 10em;
+    }
+    .image3 {
+        width: 45em;
+    }
+    .image3 img {
+        width: 45%;
+        position: absolute;
+        border-radius: 350px 0 0 350px;
+        top: 2em;
+        right: 0;
+    }
+    .prism-first {
+        width: 100%;
+        position: relative;
+        margin-left: -2em;
+        margin-top: -8em;
+    }
+    .approach {
+        background-color: #9b9ac7;
+        position: relative;
+    }
+    .approach h2 {
+        text-align: center;
+    }
+    .bttn-svg {
+        width: 30%;
+        position: relative;
+        text-align: center;
+        margin-top: 4em;
+        margin-left: 5%;
+    }
+    .svg-4 {
+        margin-left: 50%;
+        margin-bottom: -3em;
+        fill: whitesmoke;
+    }
+    .bttn-svg button {
+        width: 100%;
+        height: auto;
+        background-color: transparent;
+        border: 2px solid whitesmoke;
+        color: whitesmoke;
+    }
+    .pix-and-text {
+        position: relative;
+        width: 50%;
+        text-align: center;
+        margin-top: 5em;
+        margin-left: 10%;
+        color: #332b5b;
+        font-size: small;
+    }
+    .bttn {
+        display: flex;
+        padding-bottom: 3em;
+    }
+    .image-bottom {
+        margin-bottom: 2em;
+    }
+    .image-bottom img {
+        width: 40%;
+    }
+    .pix-squiggle {
+        position: relative;
+        display: flex;
+        overflow: hidden;
+    }
+    .pix-squiggle img {
+        height: 100%;
+        width: 100%;
+        display: flex;
+        object-fit: cover;
+        max-width: 100%;
+    }
+    .squiggle-mask svg {
+        position: absolute;
+        height: 100%;
+        width: auto;
+        right: 0;
+        top: 0;
+        fill: #332b5b;
+    }
+    .squiggle-5 {
+        width: 50%;
+    }
+    .not-hemp {
+        width: 100%;
+        align-items: center;
+        background-color: #332b5b;
+        display: flex;
+        flex-flow: wrap;
+    }
+    .squiggle-mask {
+        position: absolute;
+        right: -1px;
+        height: calc(100% + 4px);
+        top: -1px;
+    }
+    .hemp {
+        width: 50%;
+    }
+    .hemp-9 {
+        width: 80%;
+        font-weight: 500;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+        color: #fae9d6;
+    }
+    .full1 {
+        display: flex;
+    }
+    .potent-5 {
+        margin-left: 20%;
+        position: relative;
+    }
+    .no-high {
+        margin-left: 20%;
+    }
+    .not-hemp-p {
+        font-size: small;
+        font-weight: 500;
+    }
+    .full-hemp h3 {
+        font-size: medium;
+        font-weight: 500;
+    }
+    .instalink {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .instapix {
+        height: 100%;
+        width: 100%;
+    }
+    .faq {
+        background-color: #c2d8cc;
+        color: #1e4844;
+        fill: #1e4844;
+    }
+    .faq li {
+        font-size: 2.5em;
+        margin-bottom: 1em;
+        border: none;
+        background: transparent;
+        text-decoration: none;
+    }
+    .faq a {
+        text-decoration: none;
+        text-align: left;
+        position: absolute;
+        left: 2em;
+        color: #1e4844;
+        fill: #1e4844;
+    }
+    .enq1 {
+        background-color: #c2d8cc;
+        color: #1e4844;
+        fill: #c2d8cc;
+        width: 100%;
+        padding: 3em;
+    }
+    .enquiry {
+        display: flex;
+        flex-flow: column;
+    }
+    .insta_pint a {
+        position: relative;
+        left: 1em;
+        font-size: xx-large;
+        color: #1e4844;
+        fill: #1e4844;
+    }
+    .foot a {
+        color: #1e4844;
+        fill: #1e4844;
+        text-decoration: none;
+        position: relative;
+        font-size: large;
+    }
+    .user-contact {
+        background-color: #1e4844;
+        fill: #1e4844;
+        color: #fff;
+        display: flex;
+        flex-flow: column;
+        padding: 2em;
+        margin-bottom: 8%;
+        width: 100%;
+    }
+    .embrace {
+        background-color: #1e4844;
+        font-size: x-large;
+        padding-top: 1em;
+        display: flex;
+        flex-flow: wrap;
+        color: #c2d8cc;
+        fill: #c2d8cc;
+        text-align: left;
+        font-weight: 800;
+    }
+    .user-detail {
+        display: flex;
+    }
+    .foot {
+        margin-top: 5em;
+    }
+    .user-claim {
+        display: flex;
+        flex-flow: column;
+        width: 100%;
+    }
+    .user-wave {
+        background-color: #1e4844;
+        fill: #1e4844;
+        color: #fff;
+        position: relative;
+    }
+    .user-news {
+        display: flex;
+        flex-flow: wrap;
+    }
+    .message {
+        padding: 1em 0;
+        width: 90%;
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
+    form {
+        width: 100%;
+        margin: 0;
+        display: block;
+    }
+    .input-div {
+        display: flex;
+        flex-flow: wrap;
+        width: 100%;
+    }
+    .fname {
+        width: 50%;
+    }
+    input {
+        border: 2px solid;
+        color: inherit;
+        width: calc(100% - 2em);
+        background: none;
+        border-radius: 0;
+        border-width: 0 0 2px 0;
+    }
+    .email {
+        width: 50%;
+    }
+    .submit {
+        width: 20%;
+    }
+    .btn {
+        flex-grow: 1;
+    }
+    .submit-btn {
+        background-color: transparent;
+        appearance: none;
+        display: inline-block;
+        width: auto;
+        transition: all 0.5s ease;
+        text-decoration: none;
+        text-align: center;
+        vertical-align: middle;
+        cursor: pointer;
+        border: 2px solid;
+        border-radius: 0 50px 50px 0;
+        padding: 0.5em 1em;
+        color: inherit;
+        font-family: "Fabriga", sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 90%;
+        min-width: 180px;
+        white-space: normal;
+        margin-top: 5%;
+        margin-left: 50%;
+    }
+    .notice-squiggle {
+        display: flex;
+        margin-bottom: -1px;
+        background-color: #1e4844;
+        margin-top: .5em;
+    }
+    .notice-squiggle svg {
+        fill: #fae9d6;
+        width: 100%;
+        margin-top: -4.4em;
+        left: -1 em;
+        background-color: transparent;
+    }
+    svg:not(:root) {
+        overflow: hidden;
+    }
+    .before {
+        background-color: #fae9d6;
+        fill: #fae9d6;
+        color: inherit;
+        align-items: flex-end;
+        flex-grow: 1;
+        margin-top: 0;
+    }
+    .before-main {
+        position: relative;
+        margin-top: 2em;
+        color: #1e4844;
+        fill: #1e4844;
+        padding: 2em;
+    }
+    .before1 {
+        width: 60%;
+    }
+    .before2 {
+        font-size: x-large;
+        font-weight: 800;
+    }
+    .disclaim {
+        width: 100%;
+    }
+    .last {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+}
+
+@media only screen and (min-width: 700px) {
+    .potent1 {
+        margin-top: 12em;
+        background-image: url(folder1/Homepage_Banner_Website_Hero_200x200.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        left: 0;
+        right: 0;
+        background-size: cover;
+        top: -2em;
+        height: 40em;
+        width: 100%;
+        position: relative;
+    }
+    .potent {
+        width: 30%;
+        margin-left: 2em;
+        color: red;
+        padding-top: 2em;
+        position: relative;
+    }
+    .tinc {
+        width: 40%;
+        margin-left: 2em;
+        color: whitesmoke;
+        margin-top: 1em;
+    }
+    .shop {
+        margin-bottom: 5em;
+        margin-top: 2em;
+    }
+    .shop a {
+        text-decoration: none;
+        border: 2px solid whitesmoke;
+        margin-left: 2em;
+        padding-left: 2em;
+        padding-right: 2em;
+        padding-top: .5em;
+        padding-bottom: .5em;
+        font-size: larger;
+        border-radius: 0 50px 50px 0;
+        color: whitesmoke;
+    }
+    .buygooday {
+        width: 100%;
+        background-image: url(folder1/11_HOMEPAGE_DAYTIME_01080_HERO_R_Cropped_Web_200x200.jpg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        position: relative;
+        margin-top: 0;
+        height: 50em;
+    }
+    .meetgooday {
+        width: 12em;
+        margin-left: 5em;
+        margin-top: 20em;
+        position: absolute;
+        color: whitesmoke;
+        font-size: large;
+    }
+    .shopday a {
+        position: absolute;
+        top: 43em;
+        width: 12em;
+        height: 2em;
+        left: 5.5em;
+        border-radius: 0 50px 50px 0;
+        background-color: transparent;
+        border-color: whitesmoke;
+        border: 2px solid whitesmoke;
+        color: whitesmoke;
+        cursor: pointer;
+        text-decoration: none;
+        text-align: center;
+        padding-top: .2em;
+    }
+    .buynight {
+        background-image: url(folder1/06_HOMEPAGE_GOODNIGHT_00627_HERO_OG_no-bottle_Cropped_Web_200x200.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: 50em;
+        position: relative;
+    }
+    .meetgoodnight {
+        width: 12em;
+        position: absolute;
+        top: 20em;
+        color: whitesmoke;
+        left: 5em;
+        font-size: large;
+    }
+    .buynight a {
+        position: absolute;
+        top: 43em;
+        width: 12em;
+        height: 2em;
+        left: 5.5em;
+        border-radius: 0 50px 50px 0;
+        background-color: transparent;
+        border-color: whitesmoke;
+        border: 2px solid whitesmoke;
+        color: whitesmoke;
+        cursor: pointer;
+        text-decoration: none;
+        text-align: center;
+        padding-top: .2em;
+    }
+    .carousel-point {
+        position: relative;
+        align-content: center;
+    }
+    .glyphicon-chevron-left {
+        position: absolute;
+    }
+    .container {
+        width: 100%;
+        background-color: #1e4844;
+        color: whitesmoke;
+    }
+    .container h3 {
+        text-align: center;
+        margin-top: 1em;
+    }
+    .carousel-inner {
+        width: 100%;
+        text-align: center;
+        position: relative;
+        left: auto;
+        right: auto;
+        padding-bottom: 2em;
+    }
+    .container h2 {
+        text-align: center;
+    }
+    .item q {
+        text-align: center;
+    }
+    .left,
+    .right {
+        position: absolute;
+        margin-top: -10;
+        margin-bottom: .5em;
+    }
+    .item {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+        text-align: center;
+    }
+    .prism-hand {
+        background-color: #c7584a;
+        top: -1.5em;
+        position: relative;
+        height: 50em;
+        display: flex;
+        flex-flow: row-reverse;
+    }
+    .prism-hand-heading,
+    .expl {
+        margin-left: 4em;
+        color: whitesmoke;
+        position: relative;
+        top: 9em;
+        font-size: large;
+    }
+    .image3 {
+        width: 45em;
+    }
+    .image3 img {
+        width: 50%;
+        position: absolute;
+        border-radius: 350px 0 0 350px;
+        top: 2em;
+        right: 0;
+    }
+    .prism-first {
+        width: 50%;
+    }
+    .approach {
+        background-color: #9b9ac7;
+        position: relative;
+    }
+    .approach h2 {
+        text-align: center;
+    }
+    .bttn-svg {
+        width: auto;
+        position: relative;
+        text-align: center;
+        margin-top: 4em;
+        margin-left: 2%;
+    }
+    .svg-4 {
+        margin-left: 50%;
+        margin-bottom: -3em;
+        fill: whitesmoke;
+    }
+    .bttn-svg button {
+        width: 100%;
+        height: auto;
+        background-color: transparent;
+        border: 2px solid whitesmoke;
+        color: whitesmoke;
+        padding: 1em;
+    }
+    .pix-and-text {
+        position: relative;
+        width: 50%;
+        text-align: center;
+        margin-top: 5em;
+        margin-left: 5%;
+        color: #332b5b;
+        font-size: small;
+    }
+    .bttn {
+        display: flex;
+        padding-bottom: 3em;
+    }
+    .image-bottom {
+        margin-bottom: 2em;
+    }
+    .pix-squiggle {
+        position: relative;
+        display: flex;
+        overflow: hidden;
+    }
+    .pix-squiggle img {
+        height: 100%;
+        width: 100%;
+        display: flex;
+        object-fit: cover;
+        max-width: 100%;
+    }
+    .squiggle-mask svg {
+        position: absolute;
+        height: 100%;
+        width: auto;
+        right: 0;
+        top: 0;
+        fill: #332b5b;
+    }
+    .squiggle-5 {
+        width: 50%;
+    }
+    .not-hemp {
+        width: 100%;
+        align-items: center;
+        background-color: #332b5b;
+        display: flex;
+        flex-flow: wrap;
+    }
+    .squiggle-mask {
+        position: absolute;
+        right: -1px;
+        height: calc(100% + 4px);
+        top: -1px;
+    }
+    .hemp {
+        width: 50%;
+    }
+    .hemp-9 {
+        width: 80%;
+        font-weight: 700;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+        color: #fae9d6;
+    }
+    .full1 {
+        display: flex;
+    }
+    .potent-5 {
+        margin-left: 20%;
+        position: relative;
+    }
+    .no-high {
+        margin-left: 30%;
+    }
+    .not-hemp-p {
+        font-size: medium;
+        font-weight: 500;
+    }
+    .full-hemp h3 {
+        font-weight: 600;
+    }
+    .instalink {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .instapix {
+        height: 18em;
+        width: 18.03em;
+    }
+    .faq {
+        background-color: #c2d8cc;
+        color: #1e4844;
+        fill: #1e4844;
+    }
+    .faq li {
+        font-size: 2.5em;
+        margin-bottom: 1em;
+        border: none;
+        background: transparent;
+        text-decoration: none;
+    }
+    .faq a {
+        text-decoration: none;
+        text-align: left;
+        position: absolute;
+        left: 2em;
+        color: #1e4844;
+        fill: #1e4844;
+    }
+    .enq1 {
+        background-color: #c2d8cc;
+        color: #1e4844;
+        fill: #c2d8cc;
+        width: 100%;
+        padding: 3em;
+    }
+    .enquiry {
+        display: flex;
+        flex-flow: column;
+    }
+    .insta_pint a {
+        position: relative;
+        left: 1em;
+        font-size: xx-large;
+        color: #1e4844;
+        fill: #1e4844;
+    }
+    .foot a {
+        color: #1e4844;
+        fill: #1e4844;
+        text-decoration: none;
+        position: relative;
+        font-size: large;
+    }
+    .user-contact {
+        background-color: #1e4844;
+        fill: #1e4844;
+        color: #fff;
+        display: flex;
+        flex-flow: column;
+        padding: 2em;
+        margin-bottom: 8%;
+        width: 100%;
+    }
+    .embrace {
+        background-color: #1e4844;
+        font-size: x-large;
+        padding-top: 1em;
+        display: flex;
+        flex-flow: wrap;
+        color: #c2d8cc;
+        fill: #c2d8cc;
+        text-align: left;
+        font-weight: 800;
+    }
+    .user-detail {
+        display: flex;
+    }
+    .foot {
+        margin-top: 5em;
+    }
+    .user-claim {
+        display: flex;
+        flex-flow: column;
+        width: 100%;
+    }
+    .user-wave {
+        background-color: #1e4844;
+        fill: #1e4844;
+        color: #fff;
+        position: relative;
+    }
+    .user-news {
+        display: flex;
+        flex-flow: wrap;
+    }
+    .message {
+        padding: 1em 0;
+        width: 90%;
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
+    form {
+        width: 100%;
+        margin: 0;
+        display: block;
+    }
+    .input-div {
+        display: flex;
+        flex-flow: wrap;
+        width: 100%;
+    }
+    .fname {
+        width: 50%;
+    }
+    input {
+        border: 2px solid;
+        color: inherit;
+        width: calc(100% - 2em);
+        background: none;
+        border-radius: 0;
+        border-width: 0 0 2px 0;
+    }
+    .email {
+        width: 50%;
+    }
+    .submit {
+        width: 20%;
+    }
+    .btn {
+        flex-grow: 1;
+    }
+    .submit-btn {
+        background-color: transparent;
+        appearance: none;
+        display: inline-block;
+        width: auto;
+        transition: all 0.5s ease;
+        text-decoration: none;
+        text-align: center;
+        vertical-align: middle;
+        cursor: pointer;
+        border: 2px solid;
+        border-radius: 0 50px 50px 0;
+        padding: 0.5em 1em;
+        color: inherit;
+        font-family: "Fabriga", sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 90%;
+        min-width: 180px;
+        white-space: normal;
+        margin-top: 5%;
+        margin-left: 50%;
+    }
+    .notice-squiggle {
+        display: flex;
+        margin-bottom: -1px;
+        background-color: #1e4844;
+        margin-top: .5em;
+    }
+    .notice-squiggle svg {
+        fill: #fae9d6;
+        width: 100%;
+        margin-top: -6.5em;
+        left: -1 em;
+        background-color: transparent;
+    }
+    svg:not(:root) {
+        overflow: hidden;
+    }
+    .before {
+        background-color: #fae9d6;
+        fill: #fae9d6;
+        color: inherit;
+        align-items: flex-end;
+        flex-grow: 1;
+        margin-top: 0;
+    }
+    .before-main {
+        position: relative;
+        margin-top: 2em;
+        color: #1e4844;
+        fill: #1e4844;
+        padding: 2em;
+    }
+    .before1 {
+        width: 60%;
+    }
+    .before2 {
+        font-size: x-large;
+        font-weight: 800;
+    }
+    .disclaim {
+        width: 100%;
+    }
+    .last {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+}
+
+@media only screen and (min-width: 950px) {
+    .potent1 {
+        margin-top: 13em;
+        background-image: url(folder1/Homepage_Banner_Website_Hero_200x200.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        left: 0;
+        right: 0;
+        background-size: cover;
+        top: -2em;
+        height: 30em;
+        width: 100%;
+        position: relative;
+    }
+    .potent {
+        width: 20%;
+        margin-left: 2em;
+        color: green;
+        padding-top: 2em;
+        position: relative;
+        margin-top: 2em;
+    }
+    .tinc {
+        width: 30%;
+        margin-left: 2em;
+        color: whitesmoke;
+        margin-top: 1em;
+    }
+    .shop {
+        margin-bottom: 5em;
+        margin-top: 2em;
+    }
+    .shop a {
+        text-decoration: none;
+        border: 2px solid whitesmoke;
+        margin-left: 2em;
+        padding-left: 2em;
+        padding-right: 2em;
+        padding-top: .5em;
+        padding-bottom: .5em;
+        font-size: larger;
+        border-radius: 0 50px 50px 0;
+        color: whitesmoke;
+    }
+    .segment3 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        height: 50em;
+    }
+    .buygooday {
+        width: 50%;
+        background-image: url(folder1/11_HOMEPAGE_DAYTIME_01080_HERO_R_Cropped_Web_200x200.jpg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        position: relative;
+        margin-top: 0;
+    }
+    .meetgooday {
+        width: 12em;
+        margin-left: 5em;
+        margin-top: 20em;
+        position: absolute;
+        color: whitesmoke;
+        font-size: large;
+    }
+    .shopday a {
+        position: absolute;
+        top: 43em;
+        width: 12em;
+        height: 2em;
+        left: 5.5em;
+        border-radius: 0 50px 50px 0;
+        background-color: transparent;
+        border-color: whitesmoke;
+        border: 2px solid whitesmoke;
+        color: whitesmoke;
+        cursor: pointer;
+        text-decoration: none;
+        text-align: center;
+        padding-top: .2em;
+    }
+    .buynight {
+        background-image: url(folder1/06_HOMEPAGE_GOODNIGHT_00627_HERO_OG_no-bottle_Cropped_Web_200x200.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 50%;
+        position: relative;
+    }
+    .meetgoodnight {
+        width: 12em;
+        position: absolute;
+        top: 20em;
+        color: whitesmoke;
+        left: 5em;
+        font-size: large;
+    }
+    .buynight a {
+        position: absolute;
+        top: 43em;
+        width: 12em;
+        height: 2em;
+        left: 5.5em;
+        border-radius: 0 50px 50px 0;
+        background-color: transparent;
+        border-color: whitesmoke;
+        border: 2px solid whitesmoke;
+        color: whitesmoke;
+        cursor: pointer;
+        text-decoration: none;
+        text-align: center;
+        padding-top: .2em;
+    }
+    .carousel-point {
+        position: relative;
+        align-content: center;
+    }
+    .glyphicon-chevron-left {
+        position: absolute;
+    }
+    .container {
+        width: 100%;
+        background-color: #1e4844;
+        color: whitesmoke;
+    }
+    .container h3 {
+        text-align: center;
+        margin-top: 1em;
+    }
+    .carousel-inner {
+        width: 100%;
+        text-align: center;
+        position: relative;
+        left: auto;
+        right: auto;
+        padding-bottom: 2em;
+    }
+    .container h2 {
+        text-align: center;
+    }
+    .item q {
+        text-align: center;
+    }
+    .left,
+    .right {
+        position: absolute;
+        margin-top: -10%;
+        margin-bottom: 3em;
+        padding-bottom: 2em;
+    }
+    .item {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+        text-align: center;
+    }
+    .prism-hand {
+        background-color: #c7584a;
+        top: -1.5em;
+        position: relative;
+        display: flex;
+        flex-flow: row-reverse;
+        margin-bottom: -3em;
+    }
+    .prism-hand-heading,
+    .expl {
+        margin-left: -3em;
+        color: whitesmoke;
+        position: relative;
+        top: 9em;
+        font-size: large;
+    }
+    .image3 {
+        width: 40%;
+    }
+    .image3 img {
+        width: 40%;
+        position: absolute;
+        border-radius: 350px 0 0 350px;
+        top: 2em;
+        right: 0;
+    }
+    .approach {
+        background-color: #9b9ac7;
+        position: relative;
+    }
+    .approach h2 {
+        text-align: center;
+    }
+    .bttn-svg {
+        width: 35%;
+        position: relative;
+        text-align: center;
+        margin-top: 4em;
+        margin-left: 10%;
+    }
+    .svg-4 {
+        margin-left: 50%;
+        margin-bottom: -3em;
+        fill: whitesmoke;
+    }
+    .bttn-svg button {
+        width: 100%;
+        height: auto;
+        background-color: transparent;
+        border: 2px solid whitesmoke;
+        color: whitesmoke;
+        padding: 1em;
+    }
+    .pix-and-text {
+        position: relative;
+        width: 30%;
+        text-align: center;
+        margin-top: 5em;
+        margin-left: 15%;
+        color: #332b5b;
+        font-size: medium;
+    }
+    .bttn {
+        display: flex;
+        padding-bottom: 3em;
+    }
+    .image-bottom {
+        margin-bottom: 2em;
+    }
+    .pix-squiggle {
+        position: relative;
+        display: flex;
+        overflow: hidden;
+    }
+    .pix-squiggle img {
+        height: 100%;
+        width: 100%;
+        display: flex;
+        object-fit: cover;
+        max-width: 100%;
+    }
+    .squiggle-mask svg {
+        position: absolute;
+        height: 100%;
+        width: auto;
+        right: 0;
+        top: 0;
+        fill: #332b5b;
+    }
+    .squiggle-5 {
+        width: 50%;
+    }
+    .not-hemp {
+        width: 100%;
+        align-items: center;
+        background-color: #332b5b;
+        display: flex;
+        flex-flow: wrap;
+    }
+    .squiggle-mask {
+        position: absolute;
+        right: -1px;
+        height: calc(100% + 4px);
+        top: -1px;
+    }
+    .hemp {
+        width: 50%;
+    }
+    .hemp-9 {
+        width: 80%;
+        font-weight: 700;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+        color: #fae9d6;
+    }
+    .full1 {
+        display: flex;
+    }
+    .potent-5 {
+        margin-left: 20%;
+        position: relative;
+    }
+    .no-high {
+        margin-left: 25%;
+    }
+    .not-hemp-p {
+        font-size: medium;
+        font-weight: 500;
+    }
+    .instalink {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .instapix {
+        height: 18em;
+        width: 18.03em;
+    }
+    .faq {
+        background-color: #c2d8cc;
+        color: #1e4844;
+        fill: #1e4844;
+    }
+    .faq li {
+        font-size: 2.5em;
+        margin-bottom: 1em;
+        border: none;
+        background: transparent;
+        text-decoration: none;
+    }
+    .faq a {
+        text-decoration: none;
+        text-align: left;
+        position: absolute;
+        left: 2em;
+        color: #1e4844;
+        fill: #1e4844;
+    }
+    .enq1 {
+        background-color: #c2d8cc;
+        color: #1e4844;
+        fill: #c2d8cc;
+        width: 30%;
+        padding: 3em;
+    }
+    .enquiry {
+        display: flex;
+        flex-flow: column;
+    }
+    .insta_pint a {
+        position: relative;
+        left: 2em;
+        font-size: xx-large;
+        color: #1e4844;
+        fill: #1e4844;
+    }
+    .foot a {
+        color: #1e4844;
+        fill: #1e4844;
+        text-decoration: none;
+        position: relative;
+        font-size: large;
+    }
+    .user-contact {
+        background-color: #1e4844;
+        fill: #1e4844;
+        color: #fff;
+        display: flex;
+        flex-flow: column;
+        padding: 2em;
+        margin-bottom: 15em;
+        width: 100%;
+    }
+    .embrace {
+        background-color: #1e4844;
+        font-size: x-large;
+        padding-top: 1em;
+        display: flex;
+        flex-flow: wrap;
+        color: #c2d8cc;
+        fill: #c2d8cc;
+        text-align: left;
+        font-weight: 800;
+    }
+    .user-detail {
+        display: flex;
+    }
+    .foot {
+        margin-top: 5em;
+        padding-bottom: 15em;
+    }
+    .user-claim {
+        display: flex;
+        flex-flow: column;
+        width: 70%;
+    }
+    .user-wave {
+        background-color: #1e4844;
+        fill: #1e4844;
+        color: #fff;
+        position: relative;
+        width: 100%;
+    }
+    .user-news {
+        display: flex;
+        flex-flow: wrap;
+    }
+    .message {
+        padding: 1em 0;
+        width: 100%;
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
+    form {
+        width: 100%;
+        margin: 0;
+        display: block;
+    }
+    .input-div {
+        display: flex;
+        flex-flow: wrap;
+        width: 100%;
+    }
+    .fname {
+        width: 35%;
+    }
+    input {
+        border: 2px solid;
+        color: inherit;
+        width: calc(100% - 2em);
+        background: none;
+        border-radius: 0;
+        border-width: 0 0 2px 0;
+    }
+    .email {
+        width: 35%;
+    }
+    .submit {
+        width: 20%;
+    }
+    .btn {
+        flex-grow: 1;
+    }
+    .submit-btn {
+        background-color: transparent;
+        appearance: none;
+        display: inline-block;
+        width: auto;
+        transition: all 0.5s ease;
+        text-decoration: none;
+        text-align: center;
+        vertical-align: middle;
+        cursor: pointer;
+        border: 2px solid;
+        border-radius: 0 50px 50px 0;
+        padding: 0.5em 1em;
+        color: inherit;
+        font-family: "Fabriga", sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 90%;
+        min-width: 180px;
+        white-space: normal;
+        margin-left: 20%;
+    }
+    .before {
+        background-color: #fae9d6;
+        fill: #fae9d6;
+        color: inherit;
+        align-items: flex-end;
+        flex-grow: 1;
+        position: relative;
+    }
+    .before-main {
+        position: relative;
+        color: #1e4844;
+        fill: #1e4844;
+        display: flex;
+        flex-flow: wrap;
+        padding: 2em;
+    }
+    .before1 {
+        width: 30%;
+    }
+    .before2 {
+        font-size: x-large;
+        font-weight: 800;
+    }
+    .disclaim {
+        width: 60%;
+    }
+    .last {
+        display: flex;
+        flex-direction: initial;
+    }
+}
+
+.item {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    text-align: center;
+}
+
+.item q {
+    text-align: center;
+    width: 100%;
+    position: relative;
+}
+
+.top {
+    text-align: center;
+    background-color: darkblue;
+    color: whitesmoke;
+    height: 2em;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    padding-top: .5em;
+    z-index: 10;
+}
+
+.top-background {
+    background-color: #1e4844;
+    position: fixed;
+    width: 100%;
+    top: 2em;
+    margin-bottom: 2em;
+    z-index: 1000;
+}
+
+.topnav {
+    top: 5em;
+    position: relative;
+}
+
+.top-head {
+    position: relative;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    top: -1em;
+    color: whitesmoke;
+}
+
+.topnav>ul {
+    display: inline-flex;
+    position: absolute;
+    top: 2em;
+}
+
+li ul li {
+    display: none;
+    position: relative;
+    background-color: #1e4844;
+    min-width: 200px;
+}
+
+li {
+    list-style-type: none;
+}
+
+li:hover ul li {
+    display: block;
+    background-color: yellow;
+    border-bottom: none;
+    border-top: none;
+    text-align: left;
+}
+
+li:hover ul a {
+    text-decoration: none;
+}
+
+li:hover a {
+    text-decoration: none;
+}
+
+li:hover ul {
+    margin-left: 2em;
+}
+
+ul li {
+    text-align: center;
+    display: block;
+    margin-left: -1em;
+    margin-top: 0;
+    margin-right: 5em;
+    padding-top: em;
+    padding-bottom: 5px;
+    background-color: transparent;
+    height: 1em;
+}
+
+li a {
+    display: block;
+    text-decoration: none;
+}
+
+li ul {
+    margin-left: -3.2em;
+}
+
+li>ul:hover a {
+    background-color: violet;
+    margin-bottom: 10px;
+}
+
+.icons {
+    display: inline-flex;
+    position: relative;
+    float: right;
+    right: 3em;
+    top: -7em;
+    font-size: small;
+}
+
+.prismatic-press {
+    width: 100%;
+}
+
+.prismatic-press img {
+    width: 100%;
+}
+
+.pix {
+    width: 100%;
+}
+
+.pix img {
+    width: 100%;
+}
+
+.segment2 {
+    margin-top: -2em;
+    position: relative;
+}
+
+.pix3 {
+    width: 100%;
+    margin-bottom: -.5em;
+}
+
+.step1 {
+    background-color: #fae9d6;
+    display: inline-flex;
+    width: 100%;
+}
+
+.step {
+    width: 10em;
+    font-size: x-large;
+    padding-top: .5em;
+    position: relative;
+    left: 2em;
+    color: #332b5b;
+}
+
+.allabout {
+    width: 60%;
+    margin-left: 8em;
+    margin-top: 2em;
+    padding-bottom: 2em;
+    color: #51578a;
+}
+
+.notice-squiggle {
+    display: flex;
+    background-color: #1e4844;
+    margin-bottom: -1px;
+}
+
+.notice-squiggle svg {
+    fill: #fae9d6;
+    width: 100%;
+    background-color: transparent;
+    height: 100%;
+}
+
+svg:not(:root) {
+    overflow: hidden;
+}
